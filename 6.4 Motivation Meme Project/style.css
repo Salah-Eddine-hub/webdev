@@ -1,5 +1,5 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap'); */
 body{
     background-color: black;
 }
@@ -17,7 +17,7 @@ img{
 h1{
     color: white;
     text-align: center;
-    font-family: 'Caveat', cursive;
+    text-transform: uppercase;
 }
 
 p{
